@@ -1,0 +1,26 @@
+.cardDetails {
+    display: flex;
+    gap:30px;
+    flex-wrap: wrap;
+    margin: 4% 15%;
+    justify-content: center;
+    gap: 5%;
+}
+h1 {
+    text-align: center;
+}
+
+.btn {
+    display: flex;
+    justify-content: center;
+    gap : 30px;
+}
+.btn-selected {
+    text-decoration: none;
+    padding: 7px;
+    font-weight: 600;
+    color: #fff;
+}
+.btn a {
+    background: black;
+}

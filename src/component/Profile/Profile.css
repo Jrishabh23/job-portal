@@ -1,0 +1,15 @@
+.user-choice-profile {
+    width: 200px;
+    margin: 0 auto;
+}
+
+.user-choice-profile {
+    display: flex;
+    gap: 20px;
+}
+
+.btn-action {
+    width: 100px;
+    font-size: 16px;
+    height: 40px;
+}
